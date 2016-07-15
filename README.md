@@ -5,6 +5,10 @@
 
 
 ## Terminal
+https://github.com/paulirish/dotfiles
+https://fishshell.com/
+https://github.com/rupa/z
+https://github.com/so-fancy/diff-so-fancy
 
 ### zsh
 
