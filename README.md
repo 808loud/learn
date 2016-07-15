@@ -5,10 +5,10 @@
 
 
 ## Terminal
-https://github.com/paulirish/dotfiles
-https://fishshell.com/
-https://github.com/rupa/z
-https://github.com/so-fancy/diff-so-fancy
+- https://github.com/paulirish/dotfiles
+- https://fishshell.com/
+- https://github.com/rupa/z
+- https://github.com/so-fancy/diff-so-fancy
 
 ### zsh
 
@@ -17,8 +17,8 @@ https://github.com/so-fancy/diff-so-fancy
 ## Source control
 
 ### Git
-https://try.github.io/
-http://gitfaq.org/
+- https://try.github.io/
+- http://gitfaq.org/
 
 ### Workflows
 
@@ -27,19 +27,19 @@ practice better commit practices
 - don't go wild with `git commit -am "..."`, instead consider scope of changes in commit
 
 ### Git more efficient
-https://github.com/jamiew/git-friendly
-integrate hub alias
+- https://github.com/jamiew/git-friendly
+- integrate hub alias
 
 ## HTML / Markup
 
 HTML5doctor
 
 ## CSS / Style
-https://smacss.com/book/
-http://csswizardry.com/2012/05/keep-your-css-selectors-short/
+- https://smacss.com/book/
+- http://csswizardry.com/2012/05/keep-your-css-selectors-short/
 
 ### Flexbox
-https://philipwalton.github.io/solved-by-flexbox/demos/grids/
+- https://philipwalton.github.io/solved-by-flexbox/demos/grids/
 
 ### PostCSS
 
@@ -56,29 +56,29 @@ https://philipwalton.github.io/solved-by-flexbox/demos/grids/
 ## JS
 
 ## JS Frameworks
-http://todomvc.com/
+- http://todomvc.com/
 
 ### React
 
 ## Build tools
 
 ### Yeoman (should this be categorized elswhere?)
-http://www.parsed.io/yeoman-travis-ci-heroku/
+- http://www.parsed.io/yeoman-travis-ci-heroku/
 
 ### Wiredep
 
 ### Bower 
-https://github.com/yeoman/generator-webapp/blob/master/docs/bower.md
-https://github.com/taptapship/wiredep#bower-overrides
+- https://github.com/yeoman/generator-webapp/blob/master/docs/bower.md
+- https://github.com/taptapship/wiredep#bower-overrides
 
 ### Mocha
-http://ricostacruz.com/til/get-started-with-mocha.html
+- http://ricostacruz.com/til/get-started-with-mocha.html
 
 ## Continuous Integration (CI)
 
 ### Travis
-https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
-https://benlimmer.com/2013/12/26/automatically-publish-javadoc-to-gh-pages-with-travis-ci/
+- https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
+- https://benlimmer.com/2013/12/26/automatically-publish-javadoc-to-gh-pages-with-travis-ci/
 
 ### Jenkins
 
@@ -89,9 +89,9 @@ https://benlimmer.com/2013/12/26/automatically-publish-javadoc-to-gh-pages-with-
 ## Design
 
 ### Sketch
+- https://glyphsapp.com/
 
-###
-https://glyphsapp.com/
+### Etc.
 
 ### gimp
 
@@ -106,4 +106,4 @@ https://glyphsapp.com/
 ### Kanban
 
 ## Writing
-http://movethewebforward.org/
+- http://movethewebforward.org/
