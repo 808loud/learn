@@ -50,6 +50,7 @@ HTML5doctor
 ## Templating engines
 
 ### Pug (from Jade)
+- https://github.com/slang800/jade-book/blob/master/views/_ch6.md
 
 ### Jekyll
 
