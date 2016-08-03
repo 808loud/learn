@@ -28,6 +28,7 @@
 practice better commit practices
 - when fixing indentation, use a separate commit
 - don't go wild with `git commit -am "..."`, instead consider scope of changes in commit
+- https://gist.github.com/stephenparish/9941e89d80e2bc58a153
 
 ### Git more efficient
 - https://github.com/jamiew/git-friendly
@@ -40,6 +41,7 @@ HTML5doctor
 ## CSS / Style
 - https://smacss.com/book/
 - http://csswizardry.com/2012/05/keep-your-css-selectors-short/
+- - https://robots.thoughtbot.com/you-don-t-need-javascript-for-that
 
 ### Flexbox
 - https://philipwalton.github.io/solved-by-flexbox/demos/grids/
@@ -101,7 +103,8 @@ HTML5doctor
 
 ## Process
 
-### BDD
+### BDD / TDD
+- https://thoughtbot.com/upcase/fundamentals-of-tdd
 
 ### Project Management
 
