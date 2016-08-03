@@ -20,6 +20,9 @@
 - https://try.github.io/
 - http://gitfaq.org/
 
+### GitHub
+- https://help.github.com/articles/tracking-the-progress-of-a-project-with-milestones/
+
 ### Workflows
 
 practice better commit practices
