@@ -1,7 +1,7 @@
 # learn
 :books: This is just a list of topics that I want to learn (or learn better) in order to improve my skills. Part list, part link dump.
 
-(Existing list: https://www.google.com/save/me?hl=en-US&q=learn)
+(TODO: port old list: https://www.google.com/save/me?hl=en-US&q=learn)
 
 
 ## Terminal
